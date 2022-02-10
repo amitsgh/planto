@@ -1,0 +1,15 @@
+0 Pepper Bell Bacterial Spot
+1 Pepper Bell Healthy
+2 Potato Early Blight
+3 Potato Healthy
+4 Potato Late Blight
+5 Tomato Target Spot
+6 Tomato Mosaic Virus
+7 Tomato Yellow Leaf Curl Virus
+8 Tomato Bacterial Spot
+9 Tomato Early Blight
+10 Tomato Healthy
+11 Tomato Late Blight
+12 Tomato Leaf Mold
+13 Tomato Septoria Leaf Spot
+14 Tomato Spider Mites

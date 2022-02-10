@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500440240991",
+    "project_id": "planto-965f9",
+    "storage_bucket": "planto-965f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500440240991:android:b6d1eef9e42cb1da1c5cea",
+        "android_client_info": {
+          "package_name": "com.amitsingh.planto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500440240991-9ut1s219lr664sq14tde0m8tojscq98g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlYyfWt2ShOP8EUxqi90UxQVyHc11utks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500440240991-9ut1s219lr664sq14tde0m8tojscq98g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
